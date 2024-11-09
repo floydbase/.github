@@ -1,5 +1,9 @@
 # Floydbase
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/AI-Driven-FF6F00?style=for-the-badge)
+
 Welcome to Floydbase, a tech organization focused on building tools that help people stay informed and connected with the latest in technology. Our flagship project, [Rede.io](https://rede.io), is an AI-driven daily tech newsletter that curates the latest insights from trusted sources to keep you up-to-date effortlessly.
 
 ## Projects
